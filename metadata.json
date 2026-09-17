@@ -1,0 +1,10 @@
+{
+  "name": "Remix BolBuddy",
+  "description": "AI English speaking and learning companion for kids in 2nd to 8th standard with interactive speaking practice, educational games, and real-life conversation scenarios.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
